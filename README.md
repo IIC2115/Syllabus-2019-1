@@ -17,8 +17,10 @@ y controles escritos. Se calculará **la nota del curso NC** como:
 1. Si el alumno cumple con las condiciones anteriores, entonces la nota final del curso **NF**, está dada por **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
 1. La inasistencia a algún control escrito se evalúa con nota 1.0.
 
-<> ## Notas
-<> Las notas estarán presentes en [este excel](https://docs.google.com/spreadsheets/d/17EbIywgoqxOfNTFgjCl7VYKWJ6qMtBW4wI1qNl0OsMo/edit?usp=sharing). Solo pueden acceder con su mail UC, no se dará acceso a nadie que lo solicite con otra cuenta.
+<!--->
+## Notas
+Las notas estarán presentes en [este excel](https://docs.google.com/spreadsheets/d/17EbIywgoqxOfNTFgjCl7VYKWJ6qMtBW4wI1qNl0OsMo/edit?usp=sharing). Solo pueden acceder con su mail UC, no se dará acceso a nadie que lo solicite con otra cuenta.
+-->
 
 ## Recorrección o contacto
 
