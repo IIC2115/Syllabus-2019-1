@@ -40,7 +40,7 @@ def imprimir_mapa(personas, vialidad):
     plt.imshow(plot, cmap='rainbow', interpolation='nearest')
     plt.show()
 
-# Entrega un número uniforme entre a y b    
+# Entrega un numero uniforme entre a y b    
 def uniforme(a,b):
     rnd = np.random.uniform(a,b)
     return rnd
@@ -52,7 +52,7 @@ def exponencial(lamda):
 
 # Entrega la decision de ruta, se deben indicar las opciones disponibles
 # a: arriba; b: abajo; i:izquierda; d:derecha (todos son bool)
-# True si está disponible, False si no
+# True si esta disponible, False si no
 def ruta(a, b, i, d):
     opciones = {'a':a,'b':b,'i':i,'d':d}
     posibles = [op for op in opciones if opciones[op]]
