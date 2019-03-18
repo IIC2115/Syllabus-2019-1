@@ -32,7 +32,7 @@ def generar_mapa(nMapa):
 # personas (list of lists): corresponde al archivo con la cantidad de personas por celda
 # vialidad (list of lists): corresponde al archivo de vialidad entregado por generar_mapa()
 def imprimir_mapa(personas, vialidad):
-    plot = deepcopy.copy(personas)
+    plot = copy.deepcopy(personas)
     for i in range(0,len(vialidad)):
         for j in range(0,len(vialidad[i])):
             if vialidad[i][j] == -1 or vialidad[i][j] == 0 or vialidad[i][j] == 1:
