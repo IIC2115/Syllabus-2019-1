@@ -1,5 +1,5 @@
 #######################
-## LIBRERIA COMODORE ##
+## LIBRERIA COMODORO ##
 #######################
 # No realizar modificaciones en este archivo
 # Acentos omitidos
