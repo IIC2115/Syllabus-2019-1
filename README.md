@@ -17,16 +17,16 @@ y controles escritos. Se calculará **la nota del curso NC** como:
 1. Si el alumno cumple con las condiciones anteriores, entonces la nota final del curso **NF**, está dada por **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
 1. La inasistencia a una clase se evalúa con nota 1.0 en asistencia y participación de esa sesión.
 
-<!---
 ## Notas
-Las notas estarán presentes en [este excel](https://docs.google.com/spreadsheets/d/17EbIywgoqxOfNTFgjCl7VYKWJ6qMtBW4wI1qNl0OsMo/edit?usp=sharing). Solo pueden acceder con su mail UC, no se dará acceso a nadie que lo solicite con otra cuenta.
--->
+Las notas ser irán actualizando en [esta planilla](https://docs.google.com/spreadsheets/d/1XZhscpEG6mwNaoLz-nRSj_AJSdEwyIZZWoqfR8A9d8Q/edit?usp=sharing), incluyendo laboratorios, avance parcial y asistencia.
 
-## Recorrección o contacto
+## Recorrección
 
 Si quiere recorregir, espere que empiece el periodo de recorrección, que será avisado por oportunamente. <!---Solo puede mandar a recorregir por [este form](https://goo.gl/forms/31MDLa2AGLoMAHI62). No se aceptarán mail para solicitar recorrección. -->
 
-Todo mail debe ser enviado al mail oficial: iic2115@ing.puc.cl. Cualquier mail enviado por otro medio, no será respondido.
+## Contacto
+
+Todo correo debe ser enviado a la casilla oficial del curso: iic2115@ing.puc.cl. Solicitudes de recorrección pedidas a través de este medio no serán consideradas.
 
 ## Foro
 
